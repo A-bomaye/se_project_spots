@@ -1,21 +1,31 @@
 # Project 3: Spots
 
-### Overview  
+### Overview
 
-* Intro  
-* Figma  
-* Images  
-  
+- Intro
+- Figma
+- Images
+
 **Intro**
-  
-This project is made so all the elements are displayed correctly on popular screen sizes. We recommend investing more time in completing this project, since it's more difficult than previous ones.  
-  
-**Figma**  
-  
-* [Link to the project on Figma](https://www.figma.com/file/BBNm2bC3lj8QQMHlnqRsga/Sprint-3-Project-%E2%80%94-Spots?type=design&node-id=2%3A60&mode=design&t=afgNFybdorZO6cQo-1)
-  
-**Images**  
-  
-The way you'll do this at work is by exporting images directly from Figma — we recommend doing that to practice more. Don't forget to optimize them [here](https://tinypng.com/), so your project loads faster. 
-  
+
+This website is a photo sharing web app where users can see and interact with others post. As well as post photos themselves.
+
+**Tech**
+
+I used flexbox,Media Queries as well as grid. I used CSS and HTML.
+
+**Figma**
+
+- [Link to the project on Figma](https://www.figma.com/file/BBNm2bC3lj8QQMHlnqRsga/Sprint-3-Project-%E2%80%94-Spots?type=design&node-id=2%3A60&mode=design&t=afgNFybdorZO6cQo-1)
+
+**Images**
+
+![Screenshot-1](../se_project_spots/images/Screenshot-1.png)
+![Screenshot-2](../se_project_spots/images/Screenshot-2.png)
+
+## Project Pitch Video
+
+Check out [this video]https://drive.google.com/file/d/1Ab1kWAEXYlMJ60YKvVcpOMUywoWaaIpN/view?usp=drive_link, where I describe my
+project and some challenges I faced while building it
+
 Good luck and have fun!
