@@ -29,3 +29,7 @@ Check out [this video]https://drive.google.com/file/d/1Ab1kWAEXYlMJ60YKvVcpOMUyw
 project and some challenges I faced while building it
 
 Good luck and have fun!
+
+## Live Demo
+
+[View on GitHub Pages](https://A-bomaye.github.io/se_project_spots/)
