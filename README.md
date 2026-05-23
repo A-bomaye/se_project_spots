@@ -32,4 +32,4 @@ Good luck and have fun!
 
 ## Live Demo
 
-[View on GitHub Pages](https://A-bomaye.github.io/se_project_spots/)
+[View on GitHub Pages](https://a-bomaye.github.io/se_project_spots/)
